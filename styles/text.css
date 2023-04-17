@@ -1,0 +1,34 @@
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.video-title{
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 5px;
+}
+
+.video-stats {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.video-author {
+    color: rgb(96, 96, 96);
+    margin-bottom: 20px;
+}
+
+.video-description {
+    color: rgb(96, 96, 96);
+    width: 300px;
+}
+
+.shoutout:hover {
+    text-decoration: underline;
+
+}
